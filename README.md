@@ -5,3 +5,4 @@ studying the course data analysis
 - excel
 - sql
 - power bi
+- projects
